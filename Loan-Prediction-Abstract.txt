@@ -1,0 +1,9 @@
+The csv(comma seperated value) file contains the records of loan recipient. 
+There are no. of columns in the file. 
+Each column in the file represents attributes and information of various people applied for loan in a bank.
+The final column i.e Loan Status is checked against all the columns and machine is trained and tested.  
+Loan status holds T or F where T signifies Applicable and F signifies Not Applicable
+After machine is trained and tested, prediction can be made.
+Input the information of loan applicant as per the columns who wish to take loan from the bank.
+The machine processes the information and give output as T or F. 
+ 
